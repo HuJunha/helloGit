@@ -10,6 +10,7 @@ package GitTest;
 public class TestGit {
     public static void main(String[] args) {
         System.out.println("创建模块");
+        System.out.println("分支模块");
         System.out.println("主干模块");
     }
 }
